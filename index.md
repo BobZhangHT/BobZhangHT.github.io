@@ -9,7 +9,7 @@ Hello, I'm **Hengtao Zhang**, a lecturer at the School of Computer Science and E
 With a foundational background in statistics and ongoing research interests, I am committed to advancing knowledge in the field through teaching and scholarly work. Feel free to explore my website to learn more about my research projects, publications, and academic activities.
 
 ## Research Interests
-Bayesian Statistics, Causal Inference, Statistical Machine Learning, Epidemiology
+Biostatistics, Bayesian Statistics, Causal Inference, Statistical Machine Learning, Epidemiology
 
 {% include_relative _includes/working_papers.md %}
 
