@@ -1,51 +1,13 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+## Publications
 
-<div class="publications">
-<ol class="bibliography">
+Note: * denotes the corresponding author, and # means that authors are contributed equally.
 
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-<br>
-
-{% endfor %}
-
-</ol>
-</div>
+1. **Zhang, H.**, Yin, G.*, & Rubin, D. B. (2024). PCA rerandomization. *Canadian Journal of Statistics*, 52(1), 5-25. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11765) [[codes]](https://github.com/BobZhangHT/PCAReR)
+2. **Zhang, H.**, Su, W., & Yin, G.* (2023). Quasi-rerandomization for observational studies. *BMC Medical Research Methodology*, 23(1), 155. [[link]](https://link.springer.com/article/10.1186/s12874-023-01977-7) [[codes]](https://github.com/BobZhangHT/QReR)
+3. **Zhang, H.**#, Yang, Z.#, Sudjianto, A., & Zhang, A.* (2023). A Sequential Stein’s Method for Faster Training of Additive Index Models. *IEEE Transactions on Neural Networks and Learning Systems*, 35(10), 13941-13950. [link](https://ieeexplore.ieee.org/abstract/document/10143659) [[codes]](https://github.com/BobZhangHT/SeqStein)
+4. Cheung, Y. Y. H., Lam, K. F., **Zhang, H.**, Kwan, C. W., Wat, K. P., Zhang, Z., ... & Yin, G.* (2023, June). A randomized controlled experiment for comparing face-to-face and online teaching during COVID-19 pandemic. In *Frontiers in Education* (Vol. 8, p. 1160430). Frontiers Media SA. [[link]](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1160430/full) [[codes]](https://doi.org/10.17605/OSF.IO/3Q7PZ)
+5. **Zhang, H.**, & Yin, G.* (2023). Unit information prior for incorporating real-world evidence into randomized controlled trials. *Statistical Methods in Medical Research*, 32(2), 229-241. [[link]](https://journals.sagepub.com/doi/full/10.1177/09622802221133555) [[codes]](https://github.com/BobZhangHT/UIP4RCT)
+6. **Zhang, H.**, & Yin, G.* (2021). Response-adaptive rerandomization. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 70(5), 1281-1298. [[link]](https://academic.oup.com/jrsssc/article/70/5/1281/7033919?login=false) [[codes]](https://github.com/BobZhangHT/RARR)
+7. Kuang, K.#, **Zhang, H.**#, Wu, R., Wu, F., Zhuang, Y., & Zhang, A.* (2021). Balance-subsampled stable prediction across unknown test data. *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 16(3), 1-21. [[link]](https://dl.acm.org/doi/abs/10.1145/3477052)
+8. Yang, Z.#, **Zhang, H.**#, Sudjianto, A., & Zhang, A.* (2021). An effective SteinGLM initialization scheme for training multi-layer feedforward sigmoidal neural networks. *Neural Networks*, 139, 149-157. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0893608021000563)
+9. Zhang, A., **Zhang, H.**, & Yin, G.* (2020). Adaptive iterative Hessian sketch via A-optimal subsampling. *Statistics and Computing*, 30(4), 1075-1090. [[link]](https://link.springer.com/article/10.1007/s11222-020-09936-8)
