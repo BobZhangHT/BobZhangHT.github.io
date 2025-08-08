@@ -11,9 +11,9 @@ With a foundational background in statistics and ongoing research interests, I a
 ## Research Interests
 Biostatistics, Bayesian Statistics, Causal Inference, Statistical Machine Learning, Epidemiology
 
-{% include_relative _includes/working_papers.md %}
-
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/working_papers.md %}
 
 {% include_relative _includes/teaching.md %}
 
