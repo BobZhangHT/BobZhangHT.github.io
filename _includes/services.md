@@ -8,4 +8,4 @@
   - Contemporary Clinical Trials
 
 * **Statistical Consultation**:
-  I provide biostatistical consultation services for the University of Hong Kong-Shenzhen Hospital, supporting research and clinical study design, data analysis, and methodological guidance.
+  I provide biostatistical consultation services for the *University of Hong Kong-Shenzhen Hospital*, supporting research and clinical study design, data analysis, and methodological guidance.
