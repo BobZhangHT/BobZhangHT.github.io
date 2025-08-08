@@ -2,7 +2,7 @@
 
 Note: * denotes the corresponding author, and # means that authors are contributed equally.
 
-1. **Zhang, H.**, Yin, G.*, & Rubin, D. B. (2024). PCA rerandomization.  *Canadian Journal of Statistics*, 52(1), 5-25. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11765) [[codes]](https://github.com/BobZhangHT/PCAReR)
+1. **Zhang, H.**, Yin, G.* , & Rubin, D. B. (2024). PCA rerandomization.  *Canadian Journal of Statistics*, 52(1), 5-25. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11765) [[codes]](https://github.com/BobZhangHT/PCAReR)
 2. **Zhang, H.**, Su, W., & Yin, G.* (2023). Quasi-rerandomization for observational studies. *BMC Medical Research Methodology*, 23(1), 155. [[link]](https://link.springer.com/article/10.1186/s12874-023-01977-7) [[codes]](https://github.com/BobZhangHT/QReR)
 3. **Zhang, H.**#, Yang, Z.#, Sudjianto, A., & Zhang, A.* (2023). A Sequential Stein’s Method for Faster Training of Additive Index Models. *IEEE Transactions on Neural Networks and Learning Systems*, 35(10), 13941-13950. [link](https://ieeexplore.ieee.org/abstract/document/10143659) [[codes]](https://github.com/BobZhangHT/SeqStein)
 4. Cheung, Y. Y. H., Lam, K. F., **Zhang, H.**, Kwan, C. W., Wat, K. P., Zhang, Z., ... & Yin, G.* (2023, June). A randomized controlled experiment for comparing face-to-face and online teaching during COVID-19 pandemic. In *Frontiers in Education* (Vol. 8, p. 1160430). Frontiers Media SA. [[link]](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1160430/full) [[codes]](https://doi.org/10.17605/OSF.IO/3Q7PZ)
