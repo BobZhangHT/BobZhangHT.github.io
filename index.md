@@ -11,6 +11,12 @@ With a foundational background in statistics and ongoing research interests, I a
 ## Research Interests
 Biostatistics, Bayesian Statistics, Causal Inference, Statistical Machine Learning, Epidemiology
 
+## Education Background
+* **Ph.D in Statistics**, University of Hong Kong (HKU), *September 2018 - December 2022*
+  - Supervisor: [Dr. Aijun Zhang](https://statsoft.org/) and [Prof. Guosheng Yin](https://saasresearch.hku.hk/~gyin/)
+* **B.Sc in Statistics**, Wuhan University (WHU), *September 2014 - June 2018*
+  - Supervisor: [Prof. Yuanshan Wu](https://wuyuanshan.github.io/)
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/working_papers.md %}
