@@ -1,6 +1,6 @@
 ## Working Papers
 
-1. Chen, S., **Zhang, H**, Qu, Y.,..., Deng, Z*. (2026+) Divergent Impacts of Contrasting COVID-19 Public Health Policies on Emergency Department Utilization and Mortality: A Comparative Interrupted Time-Series Analysis of Hong Kong and Shenzhen. *Working Paper*.
+1. Chen, S., **Zhang, H.**, Qu, Y.,..., Deng, Z*. (2026+) Divergent Impacts of Contrasting COVID-19 Public Health Policies on Emergency Department Utilization and Mortality: A Comparative Interrupted Time-Series Analysis of Hong Kong and Shenzhen. *Working Paper*.
 2. Xu, X.#, Qu, Y.#, **Zhang, H.\*** (2026+). OS-DML: Optimal Subsampling for Double Machine Learning over Massive Data. *Working Paper*.
 3. **Zhang, H.**, Lee, C. Y., Qu, Y.* (2025+). A Bayesian changepoint model for time-varying case fatality rate via the reversible jump Markov chain Monte Carlo. *Preprint*.
 4. **Zhang, H.**, Lee, C. Y., Qu, Y.* (2025+). A Bayesian semiparametric framework for factual and counterfactual time-varying case fatality rate estimation. *Preprint*.
