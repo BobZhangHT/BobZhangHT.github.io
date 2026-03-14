@@ -2,7 +2,7 @@
 
 Note: * denotes the corresponding author, and # means that authors are contributed equally.
 
-1. **Zhang, H.**, Qu, Y, Wong, K. Y., Lee, C. Y.* (2026). Bayesian analysis of Cox-type regression model with partly linear covariate effects via reversible jump Markov chain Monte Carlo. *Statistics and Computing*, 36(2), 67. [[link]](https://link.springer.com/article/10.1007/s11222-025-10818-0) [[codes]](https://github.com/BobZhangHT/RJMCMC_NonLinear)
+1. **Zhang, H.**#, Qu, Y#, Wong, K. Y., Lee, C. Y.* (2026). Bayesian analysis of Cox-type regression model with partly linear covariate effects via reversible jump Markov chain Monte Carlo. *Statistics and Computing*, 36(2), 67. [[link]](https://link.springer.com/article/10.1007/s11222-025-10818-0) [[codes]](https://github.com/BobZhangHT/RJMCMC_NonLinear)
 2. **Zhang, H.**, Yin, G.* , & Rubin, D. B. (2024). PCA rerandomization.  *Canadian Journal of Statistics*, 52(1), 5-25. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11765) [[codes]](https://github.com/BobZhangHT/PCAReR)
 3. **Zhang, H.**, Su, W., & Yin, G.* (2023). Quasi-rerandomization for observational studies. *BMC Medical Research Methodology*, 23(1), 155. [[link]](https://link.springer.com/article/10.1186/s12874-023-01977-7) [[codes]](https://github.com/BobZhangHT/QReR)
 4. **Zhang, H.**#, Yang, Z.#, Sudjianto, A., & Zhang, A.* (2023). A sequential Stein’s method for faster training of additive index models. *IEEE Transactions on Neural Networks and Learning Systems*, 35(10), 13941-13950. [[link]](https://ieeexplore.ieee.org/abstract/document/10143659) [[codes]](https://github.com/BobZhangHT/SeqStein)
