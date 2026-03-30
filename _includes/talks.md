@@ -1,7 +1,7 @@
 ## Prensentations
 
 * 2026
-  - Invited Talk, "*Bayesian Analysis of Cox-type Regression Model with Partly Linear Covariate Effects via Reversible Jump MCMC*", 中国现场统计研究会旅游大数据分会 全国工业统计教学研究会数字经济与区块链技术协会2026年学术年会, 贵州财经大学，贵阳，中国
+  - Invited Talk, "*Bayesian Analysis of Cox-type Regression Model with Partly Linear Covariate Effects via Reversible Jump MCMC*", 中国现场统计研究会旅游大数据分会, 全国工业统计教学研究会数字经济与区块链技术协会2026年学术年会, 贵州财经大学，贵阳，中国
 
 * 2025
   - Invited Talk, "*Bayesian Analysis of Cox-type Regression Model with Partly Linear Covariate Effects via Reversible Jump MCMC*", Frontier Forum on Mathematical Model Algorithms and Applications of Artificial Intelligence, School of Computer Science and Engineering, Guangdong Ocean University, Yangjiang, China
