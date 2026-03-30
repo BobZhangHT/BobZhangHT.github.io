@@ -1,7 +1,7 @@
 ## Publications
 
 Note: * denotes the corresponding author, and # means that authors are contributed equally.
-1. **Zhang, H.**, Lee, C. Y., Qu, Y.* (2025+). A Bayesian estimator of the real-time case fatality rate in emerging pandemic to inform public health policy-making. *To Appear in BMC Infectious Diseases*. [[link]](https://link.springer.com/article/10.1186/s12879-026-13088-x) [[codes]](https://github.com/BobZhangHT/BrtaCFR)
+1. **Zhang, H.**, Lee, C. Y., Qu, Y.* (2025+). A Bayesian estimator of the real-time case fatality rate in emerging pandemic to inform public health policy-making. *BMC Infectious Diseases*. [[link]](https://link.springer.com/article/10.1186/s12879-026-13088-x) [[codes]](https://github.com/BobZhangHT/BrtaCFR)
 2. **Zhang, H.**#, Qu, Y#, Wong, K. Y., Lee, C. Y.* (2026). Bayesian analysis of Cox-type regression model with partly linear covariate effects via reversible jump Markov chain Monte Carlo. *Statistics and Computing*, 36(2), 67. [[link]](https://link.springer.com/article/10.1007/s11222-025-10818-0) [[codes]](https://github.com/BobZhangHT/RJMCMC_NonLinear)
 3. **Zhang, H.**, Yin, G.* , & Rubin, D. B. (2024). PCA rerandomization.  *Canadian Journal of Statistics*, 52(1), 5-25. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11765) [[codes]](https://github.com/BobZhangHT/PCAReR)
 4. **Zhang, H.**, Su, W., & Yin, G.* (2023). Quasi-rerandomization for observational studies. *BMC Medical Research Methodology*, 23(1), 155. [[link]](https://link.springer.com/article/10.1186/s12874-023-01977-7) [[codes]](https://github.com/BobZhangHT/QReR)
