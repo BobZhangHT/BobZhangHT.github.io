@@ -9,7 +9,7 @@ Hello, I'm **Hengtao Zhang (张恒韬)**, a lecturer at the [School of Computer 
 With a foundational background in statistics and ongoing research interests, I am committed to advancing knowledge in the field through teaching and scholarly work. Feel free to explore my website to learn more about my research projects, publications, and academic activities.
 
 ## Research Interests
-Biostatistics, Bayesian Statistics, Causal Inference, Statistical Machine Learning, Epidemiology
+Biostatistics, Bayesian Statistics, Causal Inference, Computational Statistics, Epidemiology
 
 ## Education Background
 * **Ph.D in Statistics**, University of Hong Kong (HKU), *September 2018 - December 2022*
