@@ -11,6 +11,10 @@ With a foundational background in statistics and ongoing research interests, I a
 ## Research Interests
 Biostatistics, Bayesian Statistics, Causal Inference, Computational Statistics, Epidemiology
 
+## Working Experiences
+* **Visiting Scholar**, Tsinghua University (THU), *July 2026 - August 2026*
+  - Advised by: [Dr. Huaqing Jin](https://jinhuaqing.github.io/)
+
 ## Education Background
 * **Ph.D in Statistics**, University of Hong Kong (HKU), *September 2018 - December 2022*
   - Supervisor: [Dr. Aijun Zhang](https://statsoft.org/) and [Prof. Guosheng Yin](https://saasresearch.hku.hk/~gyin/)
