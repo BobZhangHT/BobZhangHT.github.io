@@ -12,7 +12,7 @@ With a foundational background in statistics and ongoing research interests, I a
 Biostatistics, Bayesian Statistics, Causal Inference, Computational Statistics, Epidemiology
 
 ## Working Experiences
-* **Visiting Scholar at Department of Statistics and Data Science**, Tsinghua University (THU), *July 2026 - August 2026*
+* **Visiting Scholar**, Department of Statistics and Data Science, Tsinghua University (THU), *July 2026 - August 2026*
   - Advised by: [Dr. Huaqing Jin](https://jinhuaqing.github.io/)
 
 ## Education Background
