@@ -13,7 +13,7 @@ Biostatistics, Bayesian Statistics, Causal Inference, Computational Statistics, 
 
 ## Working Experiences
 * **Visiting Scholar**, Department of Statistics and Data Science, Tsinghua University (THU), *July 2026 - August 2026*
-  - Advised by: [Dr. Huaqing Jin](https://jinhuaqing.github.io/)
+  - Advisor by: [Dr. Huaqing Jin](https://jinhuaqing.github.io/)
 
 ## Education Background
 * **Ph.D in Statistics**, University of Hong Kong (HKU), *September 2018 - December 2022*
