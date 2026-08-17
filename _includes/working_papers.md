@@ -1,7 +1,7 @@
 ## Working Papers
 
-1. Qu, Y.#, Xu, X.#, **Zhang, H.\*** (2026+). CausalEpiFlow: Mechanism-embedded flow matching for counterfactual epidemic transmission and fatality surveillance. *Working Paper*.
-2. Xu, X.#, Qu, Y.#, **Zhang, H.\*** (2026+). A propensity-score-calibrated unit information prior for borrowing historical control information in randomized clinical trials.  *Working Paper*.
+1. Qu, Y.#, Xu, X.#, **Zhang, H.\*** (2026+). A Delay-Adjusted Change-Point Test for the Age Gradient of Case-Fatality Intensity. *Working Paper*.
+2. **Zhang, H.**, Qu, Y., Xu, X.\* (2026+). A propensity-score-calibrated unit information prior for borrowing historical control information in randomized clinical trials.  *Working Paper*.
 3. Qu, Y.#, Xu, X.#, **Zhang, H.\*** (2026+). Uniform-design bag of little bootstraps for distribution-dependent functionals.  *Working Paper*.
 4. **Zhang, H.**, Qu, Y., Xu, X.\*,  (2026+). Causal bootstrap for restricted randomization designs. *Submitted*.
 5. **Zhang, H.**#, Qu, Y.#, Jin, H.\* (2026+). RADISH: Robust adaptive discrepancy-informed shrinkage for historical borrowing in clinical trials. *Working Paper*.
