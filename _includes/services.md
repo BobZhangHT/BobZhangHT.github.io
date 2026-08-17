@@ -5,6 +5,7 @@
   - Journal of Statistical Planning and Inference
   - Pharmaceutical Statistics
   - BMC Medical Research Methodology
+  - BMC Public Health
   - Contemporary Clinical Trials
 
 * **Statistical Consultation**:
