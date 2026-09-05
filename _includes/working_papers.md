@@ -1,6 +1,6 @@
 ## Working Papers
 
-1. Qu, Y.#, Xu, X.#, **Zhang, H.\*** (2026+). A Delay-Adjusted Change-Point Test for the Age Gradient of Case-Fatality Intensity. *Working Paper*.
+1. Qu, Y.#, Xu, X.#, **Zhang, H.\*** (2026+). A delay-ddjusted change-point test for the age gradient of case-fatality intensity. *Working Paper*.
 2. **Zhang, H.**, Qu, Y., Xu, X.\* (2026+). A propensity-score-calibrated unit information prior for borrowing historical control information in randomized clinical trials.  *Submitted*.
 3. Qu, Y.#, Xu, X.#, **Zhang, H.\*** (2026+). Uniform-design bag of little bootstraps for distribution-dependent functionals.  *Working Paper*.
 4. **Zhang, H.**, Qu, Y., Xu, X.\*,  (2026+). Causal bootstrap for restricted randomization designs. *Submitted*.
